@@ -1,0 +1,15 @@
+{
+  "name": "dynamic-reports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@libs/common": "^0.1.7",
+    "@types/node": "^13.9.1"
+  }
+}
